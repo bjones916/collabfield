@@ -1,4 +1,6 @@
-
+body{
+  margin-top: 50px;
+  }
 nav {
   .navbar-header {
     width: 100%;
@@ -13,6 +15,7 @@ nav {
     }
  }
 
+
 }
 
 .navbar-default, .navbar-toggle:focus, .collapsed, button.navbar-toggle {
@@ -23,6 +26,3 @@ nav {
   }
 }
 
-body{
-  margin-top: 50px;
-}
