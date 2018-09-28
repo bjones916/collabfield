@@ -25,4 +25,5 @@ RSpec.describe NavigationHelper, :type => :helper do
       end
     end
   end
+
 end
